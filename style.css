@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(236, 242, 247);
+    background-color: rgb(207, 146, 110);
     font-family: Arial, Helvetica, sans-serif;
 }
 ul {
@@ -11,13 +11,14 @@ ul {
 }
 
 a {
-    color: rgba(180, 113, 69, 0.952);
+    color: rgba(161, 95, 50, 0.952);
     text-decoration: none;
 }
 
 header img {
     width: 150px;
     height: 150px;
+    border-radius: 50%;
     border: 5px solid brown;
 }
 
@@ -26,7 +27,7 @@ header img {
 }
 
 h1 {
-    color: bisque;
+    color: rgb(161, 76, 43);
 }
 
 footer img {
