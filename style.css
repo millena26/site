@@ -19,7 +19,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid brown;
+    border: 5px solid rgb(177, 102, 59);
 }
 
 .center{
@@ -27,7 +27,7 @@ header img {
 }
 
 h1 {
-    color: rgb(161, 76, 43);
+    color: rgb(167, 93, 63);
 }
 
 footer img {
@@ -54,5 +54,5 @@ footer p {
 }
 
 nav a:hover {
-    color: brown;
+    color: rgb(138, 79, 45);
 }
