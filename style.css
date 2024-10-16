@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(207, 146, 110);
+    background-color: rgb(7, 3, 1);
     font-family: Arial, Helvetica, sans-serif;
 }
 ul {
@@ -7,7 +7,7 @@ ul {
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
-    padding: 16px;
+    padding: 20px;
 }
 
 a {
