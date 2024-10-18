@@ -11,7 +11,7 @@ ul {
 }
 
 a {
-    color: rgba(161, 95, 50, 0.952);
+    color: rgba(8, 3, 0, 0.952);
     text-decoration: none;
 }
 
@@ -19,7 +19,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 55%;
-    border: 5px solid rgb(177, 102, 59);
+    border: 5px solid rgb(20, 9, 3);
 }
 
 .center{
@@ -54,5 +54,5 @@ footer p {
 }
 
 nav a:hover {
-    color: rgb(138, 79, 45);
+    color: rgb(5, 2, 0);
 }
