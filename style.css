@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(248, 212, 195);
+    background-color: rgb(223, 171, 147);
     font-family: Arial, Helvetica, sans-serif;
 }
 ul {
@@ -18,7 +18,7 @@ a {
 header img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 55%;
     border: 5px solid rgb(177, 102, 59);
 }
 
